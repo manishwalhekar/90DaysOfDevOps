@@ -1,0 +1,8 @@
+This is a general text file for week4 challenge
+Git and Github commands
+
+
+Name: Manish Walhekar
+Current company: Infosys
+
+
